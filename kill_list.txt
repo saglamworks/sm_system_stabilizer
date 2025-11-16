@@ -1,0 +1,8 @@
+# Write the names of the applications you want to terminate here.
+# Enter only one application per line.
+# Example:
+# Chrome.exe
+# Discord.exe
+# Steam.exe
+
+# NOTE: Lines starting with '#' are ignored by the system.
